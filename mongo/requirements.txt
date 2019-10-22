@@ -79,7 +79,7 @@ parse==1.8.4
 parso==0.2.1
 pexpect==4.5.0
 pickleshare==0.7.4
-Pillow==5.0.0
+Pillow==6.2.0
 Pillow-PIL==0.1.dev0
 plumber==1.5
 pql==0.4.3
