@@ -35,7 +35,7 @@ enum34==1.1.6
 fake-useragent==0.1.10
 Flask==0.12.2
 Flask-API==1.0
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-HTTPAuth==3.2.3
 flask-restplus==0.10.1
 gast==0.2.0
