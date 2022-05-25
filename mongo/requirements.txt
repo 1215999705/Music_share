@@ -95,7 +95,7 @@ pyee==5.0.0
 pyexcel-io==0.3.3
 pyexcel-xls==0.3.1
 Pygments==2.2.0
-PyJWT==1.6.0
+PyJWT==2.4.0
 pymongo==3.4.0
 pyOpenSSL==16.2.0
 pyparsing==2.2.0
